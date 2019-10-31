@@ -82,7 +82,7 @@ DATABASES = {
         'HOST': 'localhost', #host name
         'NAME': 'hospitaldb', #database name
         'USER': 'hanne', #User account in database
-        'PASSWORD': 'Tolani25', #db password
+        'PASSWORD': 'Gonner25', #db password
         'PORT': '3306', #db port number
     }
 }
